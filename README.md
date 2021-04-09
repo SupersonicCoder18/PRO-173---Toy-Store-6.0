@@ -1,1 +1,2 @@
-# PRO-173---Toy-Store-6.0
+# PRO-C173-AR
+After class project solution for C173
